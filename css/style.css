@@ -1,0 +1,65 @@
+html {
+    background-color: #f9fafc;
+    font-family: Open Sans;
+}
+
+section {
+    font-weight: bold;
+    position: relative;
+}
+
+.header {
+    padding-top: 7px;
+    position: absolute;
+}
+
+nav {
+    position: absolute;
+    right: 0px;
+}
+
+.header, .nav {
+    display: inline;
+}
+
+.nav__a {
+    color: #69696a;
+    text-decoration: none;
+}
+
+.nav__btn {
+    color: white;
+    border-radius: 15px; /*oval instead maybe?*/
+    border: solid 0px black;
+    background-color: black;
+    width: auto;
+    padding: 20px;
+}
+
+.container {
+    position: relative;
+    padding-top: 300px;
+    width: 50%;
+}
+
+.subhead {
+    font-size: 175%;
+}
+
+.content {
+    color: #69696a;
+    border-left: solid 1px rgba(0red, 0, 0, 0.5);
+    padding-left: 10px;
+}
+
+.smCircle {
+
+}
+
+.medCircle {
+    
+}
+
+.lgCircle {
+
+}
